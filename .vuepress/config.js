@@ -1,5 +1,5 @@
 module.exports = {
-  "title": "最美不过青衫白发",
+  "title": "不想休息",
   "description": "",
   "dest": "public",
   "base": "/blog/",
@@ -64,10 +64,10 @@ module.exports = {
             "text": "Vue",
             "link": "/docs/vue/虚拟dom和diff算法"
           },
-          {
-            "text": "Nuxt",
-            "link": "/docs/nuxt/introduction"
-          },
+          // {
+          //   "text": "Nuxt",
+          //   "link": "/docs/nuxt/introduction"
+          // },
           {
             "text": "前端工程化",
             "link": "/docs/yunwei/前端CICD"
