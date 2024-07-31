@@ -29,7 +29,7 @@ module.exports = {
   "themeConfig": {
     "mode": 'auto',
     "noFoundPageByTencent": true,
-    "logo": 'https://avatars.githubusercontent.com/u/48157293?v=4',
+    "logo": 'https://avatars.githubusercontent.com/u/110775263?v=4',
     "vssueConfig": {
       "platform": 'github',
       "owner": 'wuhuhu-k',
@@ -266,7 +266,7 @@ module.exports = {
         "title": "掘金",
         "desc": "精诚所至，晶石为开",
         "email": "850442777@qq.com",
-        "logo": "https://avatars.githubusercontent.com/u/48157293?v=4",
+        "logo": "https://avatars.githubusercontent.com/u/110775263?v=4",
         "link": "https://juejin.cn/user/4230576475219085"
       },
       {
@@ -280,7 +280,7 @@ module.exports = {
     "searchMaxSuggestions": 10,
     "lastUpdated": "Last Updated",
     "author": "kong",
-    "authorAvatar": "https://avatars.githubusercontent.com/u/48157293?v=4",
+    "authorAvatar": "https://avatars.githubusercontent.com/u/110775263?v=4",
     "record": "",
     "startYear": "2018"
   },
