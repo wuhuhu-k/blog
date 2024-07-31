@@ -1,7 +1,7 @@
 {
   "name": "xhfblog",
   "version": "1.0.0",
-  "author": "xianghaifeng",
+  "author": "kong",
   "scripts": {
     "dev": "vuepress dev . --temp .temp",
     "build": "vuepress build .",

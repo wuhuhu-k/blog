@@ -33,7 +33,7 @@ pnpm 完美的解决了这些问题，node_module 中只有项目本身对的依
 {
   "name": "xhfblog",
   "version": "1.0.0",
-  "author": "xianghaifeng",
+  "author": "kong",
   "scripts": {
     "dev": "vuepress dev . --temp .temp",
     "build": "vuepress build .",

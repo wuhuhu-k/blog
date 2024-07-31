@@ -279,7 +279,7 @@ module.exports = {
     "search": true,
     "searchMaxSuggestions": 10,
     "lastUpdated": "Last Updated",
-    "author": "xianghaifeng",
+    "author": "kong",
     "authorAvatar": "https://avatars.githubusercontent.com/u/48157293?v=4",
     "record": "",
     "startYear": "2018"
